@@ -19,18 +19,18 @@
 
  
 
-**About Me!**
+<!-- **About Me!**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+full+stack+developer)](https://git.io/typing-svg)
 
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
 - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com).
+- 📫 Email me at [phoenix2810@protonmail.com](mailto:phoenix2810@protonmail.com). -->
 
 
 
-**Languages and Tools:**  
+<!-- **Languages and Tools:**  
 
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
@@ -39,7 +39,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/c-plus-plus.png"></code> C++
 <code><img height="20" src="https://img.icons8.com/nolan/96/sql.png"></code> MySQL
 
-<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
+<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT -->
 
 
 
