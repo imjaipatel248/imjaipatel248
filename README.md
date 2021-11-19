@@ -21,7 +21,7 @@
 
 **About Me!**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+full+stack+developer;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+full+stack+developer)](https://git.io/typing-svg)
 
 - 👨🏽‍💻 I’m currently a ISE Undergrad student at RNS Institute of Technology, Bangalore
 - 🌱 I’m currently exploring Blockchain with a big interest in Smart Contracts. 
