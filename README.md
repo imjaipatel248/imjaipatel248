@@ -19,9 +19,6 @@
 
  
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16924632&theme=dark)](https://stackoverflow.com/users/16924632/jay-patel)
-
-
 **About Me!**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+full+stack+developer;Second+line+of+text)](https://git.io/typing-svg)
@@ -44,7 +41,12 @@
 
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
-<img src="https://github-readme-stats.vercel.app/api?username=imjaipatel248&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jay's GitHub Stats">
+
+
+<div align="center" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imjaipatel248&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jay's GitHub Stats">
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=16924632&theme=dark" alt="Jay's Stackoverflow Stats">
+ </div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imjaipatel248&count_private=true&theme=radical" alt="imjaipatel248" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjaipatel248&count_private=true&theme=radical" alt="imjaipatel248" />
 
