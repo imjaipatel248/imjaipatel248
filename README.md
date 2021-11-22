@@ -10,13 +10,8 @@
   <img align="left" alt="Jay's Twitter" width="24px" src="https://img.icons8.com/nolan/96/twitter.png" />
 </a>
 
-
-
-
 <br />
 <br />
-
-
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjaipatel248&label=Profile%20views&color=0e75b6&style=flat" alt="imjaipatel248" /> </p>
 
 
@@ -50,9 +45,11 @@
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=16924632&theme=dark" alt="Jay's Stackoverflow Stats">
  </div>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imjaipatel248&count_private=true&theme=radical" alt="imjaipatel248" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjaipatel248&count_private=true&theme=radical" alt="imjaipatel248" />
+
 
 -----
-Credits: [imjaipatel248](https://github.com/imjaipatel248)
 
-Last Edited on: 19/11/2021
+
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjaipatel248&count_private=true&theme=radical" alt="imjaipatel248" />
+
+
