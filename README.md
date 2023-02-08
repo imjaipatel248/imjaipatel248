@@ -12,7 +12,7 @@
 
 <br />
 <br />
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imjaipatel248&label=Profile%20views&color=0e75b6&style=flat" alt="imjaipatel248" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaipatel248&label=Profile%20views&color=0e75b6&style=flat" alt="jaipatel248" /> </p>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+full+stack+developer)](https://git.io/typing-svg)
@@ -41,15 +41,15 @@
 
 
 <div align="center" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=imjaipatel248&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jay's GitHub Stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jaipatel248&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jay's GitHub Stats">
 <img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=16924632&theme=dark" alt="Jay's Stackoverflow Stats">
  </div>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imjaipatel248&count_private=true&theme=radical" alt="imjaipatel248" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaipatel248&count_private=true&theme=radical" alt="jaipatel248" />
 
 
 -----
 
 
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjaipatel248&count_private=true&theme=radical" alt="imjaipatel248" />
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaipatel248&count_private=true&theme=radical" alt="jaipatel248" />
 
 
