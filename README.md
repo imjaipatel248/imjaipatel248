@@ -12,7 +12,7 @@
 
 <br />
 <br />
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaipatel248&label=Profile%20views&color=0e75b6&style=flat" alt="jaipatel248" /> </p>
+<!--  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaipatel248&label=Profile%20views&color=0e75b6&style=flat" alt="jaipatel248" /> </p> -->
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=I+am+full+stack+developer)](https://git.io/typing-svg)
