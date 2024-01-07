@@ -39,7 +39,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT -->
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=jai248)](https://leetcode.com/jai248/)
+[![Jay's LeetCode stats](https://leetcard.jacoblin.cool/jai248)](https://leetcode.com/jai248/)
 
 <div align="center" >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=jaipatel248&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Jay's GitHub Stats">
